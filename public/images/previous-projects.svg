@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800" role="img" aria-labelledby="title desc">
+  <title id="title">Previous projects placeholder</title>
+  <desc id="desc">Grid of project image placeholders.</desc>
+  <rect width="1400" height="800" fill="#111827"/>
+  <rect x="190" y="150" width="300" height="230" rx="10" fill="#F7F4EE" opacity=".22"/>
+  <rect x="550" y="150" width="300" height="230" rx="10" fill="#D89B22"/>
+  <rect x="910" y="150" width="300" height="230" rx="10" fill="#F7F4EE" opacity=".22"/>
+  <rect x="190" y="430" width="300" height="210" rx="10" fill="#D89B22" opacity=".85"/>
+  <rect x="550" y="430" width="300" height="210" rx="10" fill="#F7F4EE" opacity=".22"/>
+  <rect x="910" y="430" width="300" height="210" rx="10" fill="#D89B22" opacity=".7"/>
+</svg>

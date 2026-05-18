@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800" role="img" aria-labelledby="title desc">
+  <title id="title">Cleaning services placeholder</title>
+  <desc id="desc">Stylised clean interior with sparkle accents.</desc>
+  <rect width="1400" height="800" fill="#0B172A"/>
+  <path d="M0 520h1400v280H0z" fill="#F7F4EE" opacity=".16"/>
+  <path d="M200 180h360v430H200zM660 250h310v360H660z" fill="#F7F4EE" opacity=".22"/>
+  <path d="M260 250h240M260 340h240M720 330h190M720 430h190" stroke="#F2C14E" stroke-width="16" stroke-linecap="round"/>
+  <path d="m1110 220 28 66 66 28-66 28-28 66-28-66-66-28 66-28zM1165 520l18 41 41 18-41 18-18 41-18-41-41-18 41-18z" fill="#D89B22"/>
+</svg>

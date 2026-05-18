@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Maintenance project placeholder</title>
+  <desc id="desc">Abstract tools and maintenance shapes.</desc>
+  <rect width="900" height="675" fill="#0B172A"/>
+  <circle cx="300" cy="355" r="150" fill="#D89B22"/>
+  <path d="M250 265 520 535" stroke="#111827" stroke-width="40" stroke-linecap="round"/>
+  <path d="M560 185 700 325 650 375 510 235z" fill="#F7F4EE" opacity=".35"/>
+  <path d="M185 535h530" stroke="#F2C14E" stroke-width="14" stroke-linecap="round"/>
+</svg>

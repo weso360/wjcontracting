@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800" role="img" aria-labelledby="title desc">
+  <title id="title">Customer comments placeholder</title>
+  <desc id="desc">Abstract testimonial cards with quote marks.</desc>
+  <rect width="1400" height="800" fill="#0B172A"/>
+  <rect x="180" y="180" width="320" height="280" rx="10" fill="#F7F4EE" opacity=".22"/>
+  <rect x="540" y="250" width="320" height="280" rx="10" fill="#D89B22"/>
+  <rect x="900" y="180" width="320" height="280" rx="10" fill="#F7F4EE" opacity=".22"/>
+  <path d="M260 260h96v22h-96zM260 320h180v18H260zM260 360h150v18H260zM620 330h96v22h-96zM620 390h180v18H620zM620 430h150v18H620zM980 260h96v22h-96zM980 320h180v18H980zM980 360h150v18H980z" fill="#F7F4EE"/>
+</svg>

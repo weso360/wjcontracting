@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800" role="img" aria-labelledby="title desc">
+  <title id="title">Building services placeholder</title>
+  <desc id="desc">Stylised construction materials and building frame.</desc>
+  <rect width="1400" height="800" fill="#0B172A"/>
+  <path d="M0 585 1400 400v400H0z" fill="#1F2937"/>
+  <path d="M180 230h780v48H180zM260 278h48v330h-48zM815 278h48v330h-48z" fill="#D89B22"/>
+  <path d="M990 455h210v150H990zM1040 390h110v65h-110z" fill="#F7F4EE" opacity=".26"/>
+  <path d="M210 635h730" stroke="#F2C14E" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="1120" cy="642" r="44" fill="#D89B22"/>
+  <circle cx="1120" cy="642" r="22" fill="#0B172A"/>
+</svg>
