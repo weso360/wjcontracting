@@ -21,8 +21,8 @@ const config: Config = {
         lift: "0 24px 70px rgba(11, 23, 42, 0.18)"
       },
       fontFamily: {
-        sans: ["var(--font-inter)", "system-ui", "sans-serif"],
-        display: ["var(--font-montserrat)", "var(--font-inter)", "sans-serif"]
+        sans: ["Inter", "ui-sans-serif", "system-ui", "sans-serif"],
+        display: ["Montserrat", "Inter", "ui-sans-serif", "system-ui", "sans-serif"]
       }
     }
   },

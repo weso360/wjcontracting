@@ -1,4 +1,5 @@
 import { ButtonLink } from "@/components/ButtonLink";
+import { assetPath } from "@/lib/paths";
 
 type HeroProps = {
   eyebrow?: string;
@@ -11,7 +12,7 @@ type HeroProps = {
 export function Hero({ eyebrow = "WJ Contracting", title, subtitle, image, compact = false }: HeroProps) {
   return (
     <section className={`relative overflow-hidden bg-navy text-white ${compact ? "py-20" : "py-24 lg:py-32"}`}>
-      <div className="absolute inset-0 opacity-35" style={{ backgroundImage: `url(${image})`, backgroundSize: "cover", backgroundPosition: "center" }} />
+      <div className="absolute inset-0 opacity-35" style={{ backgroundImage: `url(${assetPath(image)})`, backgroundSize: "cover", backgroundPosition: "center" }} />
       <div className="absolute inset-0 bg-gradient-to-r from-navy via-navy/88 to-charcoal/60" />
       <div className="absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-stone to-transparent" />
       <div className="section-shell relative grid items-center gap-10 lg:grid-cols-[1.1fr_0.9fr]">

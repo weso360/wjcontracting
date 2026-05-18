@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { ButtonLink } from "@/components/ButtonLink";
+import { assetPath } from "@/lib/paths";
 
 type ProjectCardProps = {
   title: string;
@@ -11,7 +12,7 @@ export function ProjectCard({ title, description, image }: ProjectCardProps) {
   return (
     <article className="overflow-hidden rounded-md border border-navy/10 bg-white shadow-soft transition duration-300 hover:-translate-y-1 hover:shadow-lift">
       <div className="relative aspect-[4/3] bg-charcoal">
-        <Image src={image} alt={`${title} project placeholder`} fill className="object-cover" />
+        <Image src={assetPath(image)} alt={`${title} project placeholder`} fill className="object-cover" />
       </div>
       <div className="p-6">
         <h3 className="font-display text-2xl font-black text-navy">{title}</h3>
